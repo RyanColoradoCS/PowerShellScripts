@@ -1,0 +1,1 @@
+﻿Add-MailboxFolderPermission -Identity "first.last@contoso.com:\Calendar" -User "name@contoso.com" -AccessRights Editor
